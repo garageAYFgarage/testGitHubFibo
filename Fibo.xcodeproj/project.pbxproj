@@ -19,7 +19,7 @@
 		DA0DDC8E29F000C10039D0C0 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0DDC8D29F000C10039D0C0 /* HomeViewController.swift */; };
 		DA0DDC9129F00B5A0039D0C0 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0DDC9029F00B5A0039D0C0 /* Utilities.swift */; };
 		DA2B3AD929F17D88001D0F4E /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2B3AD829F17D88001D0F4E /* Constants.swift */; };
-		DA2B3ADD29F180D8001D0F4E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = DA2B3ADC29F180D8001D0F4E /* GoogleService-Info.plist */; };
+		DABCBBE229F2A0F40053397D /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = DABCBBE129F2A0F40053397D /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,7 +39,7 @@
 		DA0DDC8D29F000C10039D0C0 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		DA0DDC9029F00B5A0039D0C0 /* Utilities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 		DA2B3AD829F17D88001D0F4E /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
-		DA2B3ADC29F180D8001D0F4E /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../GoogleService-Info.plist"; sourceTree = "<group>"; };
+		DABCBBE129F2A0F40053397D /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,7 +100,7 @@
 				DA0DDC7E29F0000F0039D0C0 /* Assets.xcassets */,
 				DA0DDC8029F0000F0039D0C0 /* LaunchScreen.storyboard */,
 				DA0DDC8329F0000F0039D0C0 /* Info.plist */,
-				DA2B3ADC29F180D8001D0F4E /* GoogleService-Info.plist */,
+				DABCBBE129F2A0F40053397D /* GoogleService-Info.plist */,
 			);
 			path = Fibo;
 			sourceTree = "<group>";
@@ -186,8 +186,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				DA0DDC8229F0000F0039D0C0 /* LaunchScreen.storyboard in Resources */,
+				DABCBBE229F2A0F40053397D /* GoogleService-Info.plist in Resources */,
 				DA0DDC7F29F0000F0039D0C0 /* Assets.xcassets in Resources */,
-				DA2B3ADD29F180D8001D0F4E /* GoogleService-Info.plist in Resources */,
 				DA0DDC7D29F0000D0039D0C0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
