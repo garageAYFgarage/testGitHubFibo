@@ -1,0 +1,6 @@
+framework module Pods_Fibo {
+  umbrella header "Pods-Fibo-umbrella.h"
+
+  export *
+  module * { export * }
+}
